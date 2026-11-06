@@ -193,41 +193,26 @@ As imagens abaixo demonstram a interface e as funcionalidades desenvolvidas no M
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/acfcab08-b13f-4c27-9781-0ae475e0faa5" />
 
-
-![Landing page Petfood](screenshots/landing-page.png)
-
 ## 5.2 Formulário de solicitação de assinatura
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/e4fa6941-4516-43f3-aa61-6c9251aeec61" />
-
-![Formulário Petfood](screenshots/formulario.png)
 
 ## 5.3 Confirmação de solicitação
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/c400f53b-3b02-439f-961d-fe7099334ce0" />
 
-![Confirmação Petfood](screenshots/confirmacao.png)
-
 ## 5.4 Dashboard administrativo
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/6579634a-27fa-4e9b-ac4d-64cb1b2745aa" />
-
-![Dashboard Petfood](screenshots/dashboard.png)
 
 ## 5.5 Gerenciamento de leads e clientes
 
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/ba7c20b4-54a7-4c0e-ae5c-555d180f9ee6" />
 
-
-![Gerenciamento Petfood](screenshots/leads.png)
-
 ## 5.6 Gerenciamento de assinaturas e entregas
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/774d2e58-c502-4070-bfaf-7ca68b679bfc" />
 <img width="1918" height="1040" alt="image" src="https://github.com/user-attachments/assets/cef6919f-0fda-497d-a953-274495ef9166" />
-
-
-![Assinaturas Petfood](screenshots/assinaturas.png)
 
 ---
 
