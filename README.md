@@ -1,0 +1,1 @@
+# MeuNegocio.AI-Construindo-um-Produto-Digital-com-Agentes-de-IA-e-Lovable
