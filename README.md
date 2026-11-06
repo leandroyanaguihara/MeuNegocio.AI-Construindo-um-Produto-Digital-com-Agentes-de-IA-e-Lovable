@@ -167,6 +167,8 @@ O mega prompt foi elaborado em Markdown, descrevendo:
 - Requisitos de segurança.
 - Critérios de aceitação do MVP.
 
+```text
+
 ### Prompt inicial
 
 # PETFOOD — Construção do MVP Full Stack
@@ -713,6 +715,8 @@ Antes de considerar concluído, teste:
 - Abertura de conversa no WhatsApp.
 
 O objetivo é entregar uma primeira versão utilizável comercialmente em Campo Grande/MS, preparada para evoluir futuramente para pagamentos recorrentes, automações e chatbot integrado ao WhatsApp.
+
+```
 
 ---
 
